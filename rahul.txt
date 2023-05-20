@@ -1,0 +1,3 @@
+This Repo is created for git practical for Devops
+This content written after 1st commit
+adding some content to unstage changes
