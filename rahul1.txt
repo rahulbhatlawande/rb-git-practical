@@ -1,1 +1,2 @@
 adding this line only in rb-1
+aws+devops git bash, git hub, git status,log,add,commit
